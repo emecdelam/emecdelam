@@ -4,9 +4,14 @@
     <h3>Student / Learning developer</h3>
 </div
   <br />
+<hr />
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=emecdelam&theme=gruvbox">
 </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emecdelam&hide_border=true&layout=compact&theme=gruvbox&bg_color=00000000">
+</div>
+
 <hr />
 <div align="center">
     <h2>Learned</h2>
@@ -46,10 +51,7 @@
 </div>
 
 <hr />
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emecdelam&hide_border=true&layout=compact&theme=gruvbox&bg_color=00000000">
-</div>
-<hr />
+
 <div align="center">
     <h2>Practice on</h2>
 </div>
